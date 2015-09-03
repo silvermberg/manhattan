@@ -1,5 +1,11 @@
 ![Image of manhattan project](https://cloud.githubusercontent.com/assets/4383889/9624174/0caadd48-50ff-11e5-8031-f919a6450950.jpg)
 
+**Client**
+![Image of Sogeti](http://www.stealth-soft.com/SiteAssets/Partners/Sogeti.jpg)
+Sogeti is a wholly owned subsidiary of Capgemini Group. The Sogeti Group is an information technology consulting company specializing in local professional services, with headquarters in Paris. The Sogeti Group employs around 20,000 people at around 300 branches in 15 countries.
+
+*retrieved from wikipedia*
+
 **Application name: Sparky Dash**
  
  
