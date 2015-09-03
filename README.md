@@ -7,9 +7,11 @@ Sogeti is a wholly owned subsidiary of Capgemini Group. The Sogeti Group is an i
 *retrieved from wikipedia*
 
 **Application name: Sparky Dash**
+
+![Image of sparky dash](https://cloud.githubusercontent.com/assets/4383889/9663854/60fc8afa-521b-11e5-9ac2-887c0399f62f.jpg)
  
  
-   Sparky Dash is a 2D mobile platform game. Like other famously popular platform games, Sparky Dash is a game that drives you to get the highest score possible. The game is a side scrolling platform game that will show Sparky running around Arizona State University jumping over various objects. When the user successfully jumps an object, they will be given a point. The object of the game is obtain as many points as possible. Sparky Dash will be develop to run on mobile platform, mainly android. 
+**Sparky Dash** is a 2D mobile platform game. Like other famously popular platform games, Sparky Dash is a game that drives you to get the highest score possible. The game is a side scrolling platform game that will show Sparky running around Arizona State University jumping over various objects. When the user successfully jumps an object, they will be given a point. The object of the game is obtain as many points as possible. Sparky Dash will be develop to run on mobile platform, mainly android.
  
 ---
 **Tasks**
